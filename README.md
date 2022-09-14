@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ameyapoteyofficial
 - 💞️ I’m interested in developing Full-Stack Web applications
 - 🌱 I’m currently pursuing my Master's in Computer Science from the University of Texas at Dallas
-- 👀 I’m looking for Software Developer Interships for Spring/Summer 2022
+- 👀 I’m looking for Software Engineering roles starting May 2023
 - 📫 How to reach me : ameyapotey619@gmail.com
 
 <!---
