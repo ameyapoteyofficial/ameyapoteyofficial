@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ameyapoteyofficial
 - 💞️ I’m interested in developing Full-Stack applications
 - 🌱 I’m currently pursuing my Master's in Computer Science from the University of Texas at Dallas
-- 👀 I’m looking for Software Engineering roles starting May 2023
+- 👀 I’m looking for Backend/Full-stack Software Engineering roles
 - 📫 How to reach me : ameyapotey619@gmail.com
 
 <!---
